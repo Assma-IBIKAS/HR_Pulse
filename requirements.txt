@@ -1,0 +1,14 @@
+fastapi[standard] 
+sqlalchemy 
+pyodbc 
+pandas 
+matplotlib
+seaborn
+scikit-learn 
+python-dotenv 
+azure-ai-textanalytics 
+opentelemetry-sdk 
+opentelemetry-instrumentation-fastapi 
+opentelemetry-exporter-otlp 
+pytest 
+ruff
