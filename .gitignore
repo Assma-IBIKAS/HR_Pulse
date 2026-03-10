@@ -1,0 +1,11 @@
+.env
+.terraform
+main.tf 
+outputs.tf 
+providers.tf 
+terraform.tfstate
+variables.tf 
+.terraform.lock.hcl
+.python-version
+pyproject.toml
+uv.lock
